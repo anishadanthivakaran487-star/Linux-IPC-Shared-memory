@@ -113,11 +113,10 @@ int main() {
 }
 ```
 
-
-
-
 ## OUTPUT
-
+$./shm.o
+$ipcs | grep 131083
+![Alt text](image.png)
 
 # RESULT:
 The program is executed successfully.
